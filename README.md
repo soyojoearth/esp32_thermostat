@@ -1,33 +1,10 @@
-# _Sample project_
+# 这是一款ESP32模组做的智能温控器源代码，使用IDF环境（Linux），电路板请参考原理图自行制作
+### 支持WiFi、蓝牙同时连接
+### 我们有现成的APP、小程序、服务器IoT平台，该源码烧录后可以直接对接我们平台
+### 你也可以改一改，做成别的产品，然后找我们定制APP，找我们要通信协议文档
 
-(See the README.md file in the upper level 'examples' directory for more information about examples.)
+![avatar](images/esp32.png)
 
-This is the simplest buildable example. The example is used by command `idf.py create-project`
-that copies the project to user specified path and set it's name. For more information follow the [docs page](https://docs.espressif.com/projects/esp-idf/en/latest/api-guides/build-system.html#start-a-new-project)
-
-
-
-## How to use example
-We encourage the users to use the example as a template for the new projects.
-A recommended way is to follow the instructions on a [docs page](https://docs.espressif.com/projects/esp-idf/en/latest/api-guides/build-system.html#start-a-new-project).
-
-## Example folder contents
-
-The project **sample_project** contains one source file in C language [main.c](main/main.c). The file is located in folder [main](main).
-
-ESP-IDF projects are built using CMake. The project build configuration is contained in `CMakeLists.txt`
-files that provide set of directives and instructions describing the project's source files and targets
-(executable, library, or both). 
-
-Below is short explanation of remaining files in the project folder.
-
-```
-├── CMakeLists.txt
-├── main
-│   ├── CMakeLists.txt
-│   └── main.c
-└── README.md                  This is the file you are currently reading
-```
-Additionally, the sample project contains Makefile and component.mk files, used for the legacy Make based build system. 
-They are not used or needed when building with CMake and idf.py.
-# esp32_thermostat
+# 收费项目费用
+### 1、设备接入平台费（或APP定制费）
+### 技术与商务联系方式：微信 napshen （暗号：芝麻开门）
