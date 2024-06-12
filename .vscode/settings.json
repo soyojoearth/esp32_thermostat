@@ -1,0 +1,32 @@
+{
+    "files.associations": {
+        "stdio.h": "c",
+        "beeper.h": "c",
+        "bitset": "c",
+        "chrono": "c",
+        "algorithm": "c",
+        "optional": "c",
+        "istream": "c",
+        "ostream": "c",
+        "ratio": "c",
+        "system_error": "c",
+        "array": "c",
+        "functional": "c",
+        "tuple": "c",
+        "type_traits": "c",
+        "utility": "c",
+        "cstdint": "cpp",
+        "string_view": "c",
+        "regex": "c",
+        "*.inc": "c",
+        "global.h": "c",
+        "string": "c",
+        "*.ipp": "c",
+        "random": "c",
+        "sstream": "c",
+        "mqtt.h": "c",
+        "relay.h": "c",
+        "param.h": "c",
+        "ds18b20.h": "c"
+    }
+}

@@ -1,0 +1,15 @@
+idf_component_register(SRCS 
+						"main.c"
+						"led.c"
+						"global.c"
+						"tm1640.c"
+						"temp.c"
+						"relay.c"
+						"beeper.c"
+						"btn.c"
+						"mqtt.c"
+						"wifi.c"
+						"ble.c"
+						"http.c"
+						"aht10.c"
+                    INCLUDE_DIRS "")
